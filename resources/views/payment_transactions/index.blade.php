@@ -366,11 +366,11 @@
                             <!--begin::Table row-->
                             <tr class="text-start text-gray-400 fw-bolder fs-7 text-uppercase gs-0">
                                 <th class="">S.No</th>
-                                <th class="min-w-125px">Customer Name</th>
-                                <th class="min-w-125px">Package Name</th>
-                                <th class="min-w-125px">Amount</th>
-                                <th class="min-w-125px">Date</th>
-                                <th class="min-w-125px">Status</th>
+                                <th class="">Customer Name</th>
+                                <th class="">Package Name</th>
+                                <th class="">Amount</th>
+                                <th class="">Date</th>
+                                <th class="">Status</th>
                             </tr>
                             <!--end::Table row-->
                             </thead>
